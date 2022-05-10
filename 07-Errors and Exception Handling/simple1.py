@@ -11,4 +11,5 @@ def myfunc():
     print(first)
     print(second)
 
+
 myfunc()
